@@ -1,1 +1,1 @@
-It is my new file
+It first learning file.
